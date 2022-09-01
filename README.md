@@ -1,7 +1,8 @@
 > ## GIỚI THIỆU TRANG REACTIVE BEER
 ___________________________________________________________________________________________________________________
-### Xem Video Demo ở Google Drive
-Link: https://drive.google.com/drive/folders/1qzdTG5AMx3bIO5OnGQ8bHIhlc91pOnGO?usp=sharing
+ **Demo đầy đủ (đã tua nhanh): [tại đây](https://drive.google.com/file/d/10Ve9uauCTFg17VR5Eq3Rv3NgZYkuQSGm/view?usp=sharing) 
+<br>Các video Demo lẻ: [tại đây](https://drive.google.com/file/d/1K9I_Sc_bzRaSeWqDkBwsyEbaUvo391d3/view?usp=sharing)
+<br>Folder Video Demo: [tại đây](https://drive.google.com/drive/folders/1S4s8AoHADqm9dlfMe5bPVrG3fCIX_3gM?usp=sharing)**
 ___________________________________________________________________________________________________________________
 > ### 1. Công nghệ sử dụng
 - Front-End: ReactJS
